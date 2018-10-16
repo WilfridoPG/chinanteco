@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PROYECTOCHINANTECO">
+</Property><Property Name="Solution File" Value="D:\PROYECTO CHINANTECO\PROYECTOCHINANTECO\PROYECTOCHINANTECO.sln">
+</Property><Property Name="Date" Value="martes, 11 de marzo de 2014">
+</Property><Property Name="Time" Value="20:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PROYECTOCHINANTECO.sln" Description="File successfully backed up as D:\PROYECTO CHINANTECO\PROYECTOCHINANTECO\Backup\PROYECTOCHINANTECO.sln">
+</Event><Event ErrorLevel="0" Project="PROYECTOCHINANTECO" Source="PROYECTOCHINANTECO\PROYECTOCHINANTECO.csproj" Description="Project file successfully backed up as D:\PROYECTO CHINANTECO\PROYECTOCHINANTECO\Backup\PROYECTOCHINANTECO\PROYECTOCHINANTECO.csproj">
+</Event><Event ErrorLevel="0" Project="PROYECTOCHINANTECO" Source="PROYECTOCHINANTECO\MainForm.cs" Description="File successfully backed up as D:\PROYECTO CHINANTECO\PROYECTOCHINANTECO\Backup\PROYECTOCHINANTECO\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="PROYECTOCHINANTECO" Source="PROYECTOCHINANTECO\MainForm.Designer.cs" Description="File successfully backed up as D:\PROYECTO CHINANTECO\PROYECTOCHINANTECO\Backup\PROYECTOCHINANTECO\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PROYECTOCHINANTECO" Source="PROYECTOCHINANTECO\Program.cs" Description="File successfully backed up as D:\PROYECTO CHINANTECO\PROYECTOCHINANTECO\Backup\PROYECTOCHINANTECO\Program.cs">
+</Event><Event ErrorLevel="0" Project="PROYECTOCHINANTECO" Source="PROYECTOCHINANTECO\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\PROYECTO CHINANTECO\PROYECTOCHINANTECO\Backup\PROYECTOCHINANTECO\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PROYECTOCHINANTECO" Source="PROYECTOCHINANTECO\MainForm.resx" Description="File successfully backed up as D:\PROYECTO CHINANTECO\PROYECTOCHINANTECO\Backup\PROYECTOCHINANTECO\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="PROYECTOCHINANTECO" Source="PROYECTOCHINANTECO\PROYECTOCHINANTECO.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PROYECTOCHINANTECO" Source="PROYECTOCHINANTECO\PROYECTOCHINANTECO.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PROYECTOCHINANTECO.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PROYECTOCHINANTECO.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PROYECTOCHINANTECO" Source="PROYECTOCHINANTECO\PROYECTOCHINANTECO.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
